@@ -31,7 +31,7 @@ This plugin integrates coverage measurement data with OSM building layers for bu
 
 ## 📸 Screenshots
 
-![Main Dialog](docs/screenshoot/signal_matrix.png)
+![Main Dialog](docs/screenshoots/signal_matrix.png)
 
 ## 📚 Documentation
 
