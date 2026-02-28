@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+*.dll
+
+# QGIS
+*.qgs
+*.qgz
+*.bak
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Plugin specific
+*.log
+configs/
+*.gpkg
+*.gpkg-shm
+*.gpkg-wal
